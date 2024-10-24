@@ -1,5 +1,4 @@
-[![Join our Discord server!](https://invidget.switchblade.xyz/VsPXjNRcbw)](https://discord.com/invite/VsPXjNRcbw)
-<hr/>
+
 
 ## Acknowledgements
 
